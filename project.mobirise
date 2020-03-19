@@ -1373,6 +1373,9 @@
             ".card-box": {
               "padding": "0rem 2.5rem 3rem 2.5rem",
               "background-color": "@cardsBg"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_name": "features6",
