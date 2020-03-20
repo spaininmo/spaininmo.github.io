@@ -2777,8 +2777,54 @@ section.lazy-placeholder:after {
     padding-bottom: 2rem;
   }
 }
+.cid-rTNdDWt5fL {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-rTNdDWt5fL [class^="socicon-"]:before,
+.cid-rTNdDWt5fL [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-rTNdDWt5fL .btn-social {
+  font-size: 20px;
+  border-radius: 50%;
+  padding: 0;
+  width: 44px;
+  height: 44px;
+  line-height: 44px;
+  text-align: center;
+  position: relative;
+  color: #232323;
+  cursor: pointer;
+  border-color: #036919;
+}
+.cid-rTNdDWt5fL .btn-social i {
+  top: 0;
+  line-height: 44px;
+  width: 44px;
+}
+.cid-rTNdDWt5fL .btn-social:hover {
+  color: #fff;
+  background: #036919;
+}
+.cid-rTNdDWt5fL .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+.cid-rTNdDWt5fL .btn-social + .btn {
+  margin-left: .1rem;
+}
+@media (max-width: 767px) {
+  .cid-rTNdDWt5fL .btn {
+    font-size: 20px !important;
+  }
+}
+.cid-rTNdDWt5fL .btn-social,
+.cid-rTNdDWt5fL .mbr-section-title {
+  color: #767676;
+}
 .cid-rTNc027sfP {
-  padding-top: 30px;
+  padding-top: 60px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
