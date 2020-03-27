@@ -1760,25 +1760,100 @@ section.lazy-placeholder:after {
     font-size: 40px !important;
   }
 }
-.cid-rUsqLolIDy {
-  padding-top: 15px;
+.cid-rUsrUrdVMQ {
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rUsqLolIDy h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-rUsqLolIDy p {
+.cid-rUsrUrdVMQ .mbr-section-subtitle {
   color: #767676;
-  text-align: left;
+  font-weight: 300;
 }
-.cid-rUsqLolIDy .card-box {
-  padding-top: 2rem;
+.cid-rUsrUrdVMQ .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+  align-items: stretch;
+  -webkit-align-items: stretch;
 }
-.cid-rUsqLolIDy .card-wrapper {
+.cid-rUsrUrdVMQ .card_cont {
+  -o-transition: all .5s;
+  -ms-transition: all .5s;
+  -moz-transition: all .5s;
+  -webkit-transition: all .5s;
+  transition: all .5s;
+  -o-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  text-align: center;
+  background-color: #eee;
+}
+.cid-rUsrUrdVMQ .card-front {
+  z-index: 2;
+  padding: 0;
+  width: 100%;
   height: 100%;
+  overflow: hidden;
+}
+.cid-rUsrUrdVMQ .card-front img {
+  height: 100%;
+  min-width: 100%;
+  width: auto;
+}
+.cid-rUsrUrdVMQ .card_back {
+  width: 100%;
+  height: 100%;
+  padding: 30px 30px;
+  color: #ffffff;
+  background-color: #ffffff;
+  z-index: 1;
+  margin: 0;
+  text-align: center;
+  overflow: hidden;
+  -o-transform: rotateY(-180deg);
+  -ms-transform: rotateY(-180deg);
+  -moz-transform: rotateY(-180deg);
+  -webkit-transform: rotateY(-180deg);
+  transform: rotateY(-180deg);
+}
+.cid-rUsrUrdVMQ .card {
+  min-height: 300px;
+}
+.cid-rUsrUrdVMQ .card:hover .card-front {
+  z-index: 1;
+  -o-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+}
+.cid-rUsrUrdVMQ .card:hover .card_back {
+  z-index: 2;
+  -o-transform: rotateY(0deg);
+  -ms-transform: rotateY(0deg);
+  -moz-transform: rotateY(0deg);
+  -webkit-transform: rotateY(0deg);
+  transform: rotateY(0deg);
+}
+.cid-rUsrUrdVMQ .builderCard .card_back {
+  border-bottom-left-radius: 100px;
+}
+.cid-rUsrUrdVMQ .builderCard .card_cont {
+  -o-backface-visibility: hidden;
+  -ms-backface-visibility: hidd;
+  -moz-backface-visibility: visible;
+  -webkit-backface-visibility: visible;
+  backface-visibility: visible;
+}
+.cid-rUsrUrdVMQ H4 {
+  color: #232323;
+}
+.cid-rUsrUrdVMQ P {
+  color: #232323;
 }
 .cid-rTGcLvHeVO .navbar {
   background: #efefef;
