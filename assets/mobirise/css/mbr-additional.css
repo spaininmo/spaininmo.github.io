@@ -1625,7 +1625,7 @@ section.lazy-placeholder:after {
 .cid-rTHtLup5hd {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/mbr-2.jpg");
 }
 .cid-rTHtLup5hd .title {
   margin-bottom: 2rem;
@@ -1649,16 +1649,16 @@ section.lazy-placeholder:after {
 .cid-rTHtLup5hd LABEL {
   color: #232323;
 }
-.cid-rTHwuV1hTf {
+.cid-rUqSKfeWh9 {
   padding-top: 30px;
-  padding-bottom: 15px;
-  background-color: #efefef;
+  padding-bottom: 30px;
+  background-color: #ffffff;
 }
-.cid-rTHwuV1hTf [class^="socicon-"]:before,
-.cid-rTHwuV1hTf [class*=" socicon-"]:before {
+.cid-rUqSKfeWh9 [class^="socicon-"]:before,
+.cid-rUqSKfeWh9 [class*=" socicon-"]:before {
   line-height: 44px;
 }
-.cid-rTHwuV1hTf .btn-social {
+.cid-rUqSKfeWh9 .btn-social {
   font-size: 20px;
   border-radius: 50%;
   padding: 0;
@@ -1671,63 +1671,67 @@ section.lazy-placeholder:after {
   cursor: pointer;
   border-color: #036919;
 }
-.cid-rTHwuV1hTf .btn-social i {
+.cid-rUqSKfeWh9 .btn-social i {
   top: 0;
   line-height: 44px;
   width: 44px;
 }
-.cid-rTHwuV1hTf .btn-social:hover {
+.cid-rUqSKfeWh9 .btn-social:hover {
   color: #fff;
   background: #036919;
 }
-.cid-rTHwuV1hTf .btn-social:hover i.socicon {
+.cid-rUqSKfeWh9 .btn-social:hover i.socicon {
   color: #ffffff !important;
 }
-.cid-rTHwuV1hTf .btn-social + .btn {
+.cid-rUqSKfeWh9 .btn-social + .btn {
   margin-left: .1rem;
 }
 @media (max-width: 767px) {
-  .cid-rTHwuV1hTf .btn {
+  .cid-rUqSKfeWh9 .btn {
     font-size: 20px !important;
   }
 }
-.cid-rTHwuV1hTf .btn-social,
-.cid-rTHwuV1hTf .mbr-section-title {
+.cid-rUqSKfeWh9 .btn-social,
+.cid-rUqSKfeWh9 .mbr-section-title {
   color: #232323;
 }
-.cid-rTHwybHBqi {
-  padding-top: 0px;
+.cid-rUqSgnDGIR {
+  padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 @media (max-width: 767px) {
-  .cid-rTHwybHBqi .media-wrap {
-    margin-bottom: 1rem;
+  .cid-rUqSgnDGIR .content {
     text-align: center;
   }
+  .cid-rUqSgnDGIR .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
 }
-.cid-rTHwybHBqi .media-wrap .mbr-iconfont-logo {
-  font-size: 7rem;
+@media (max-width: 767px) {
+  .cid-rUqSgnDGIR .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-rUqSgnDGIR .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
   color: #f36;
 }
-.cid-rTHwybHBqi .media-wrap img {
+.cid-rUqSgnDGIR .media-wrap img {
   height: 6rem;
 }
-.cid-rTHwybHBqi .mbr-text {
-  color: #767676;
-}
 @media (max-width: 767px) {
-  .cid-rTHwybHBqi .footer-lower .copyright {
+  .cid-rUqSgnDGIR .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-rTHwybHBqi .footer-lower hr {
+.cid-rUqSgnDGIR .footer-lower hr {
   margin: 1rem 0;
-  border-color: #000;
+  border-color: #fff;
   opacity: .05;
 }
-.cid-rTHwybHBqi .footer-lower .social-list {
+.cid-rUqSgnDGIR .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -1737,29 +1741,32 @@ section.lazy-placeholder:after {
   -webkit-justify-content: flex-end;
   justify-content: flex-end;
 }
-.cid-rTHwybHBqi .footer-lower .social-list .mbr-iconfont-social {
+.cid-rUqSgnDGIR .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
-  color: #232323;
+  color: #fff;
 }
-.cid-rTHwybHBqi .footer-lower .social-list .soc-item {
+.cid-rUqSgnDGIR .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-rTHwybHBqi .footer-lower .social-list a {
+.cid-rUqSgnDGIR .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-rTHwybHBqi .footer-lower .social-list a:hover {
+.cid-rUqSgnDGIR .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-rTHwybHBqi .footer-lower .social-list {
+  .cid-rUqSgnDGIR .footer-lower .social-list {
     -webkit-justify-content: center;
     justify-content: center;
   }
 }
-.cid-rTHwybHBqi .copyright > p {
+.cid-rUqSgnDGIR H5 {
+  color: #232323;
+}
+.cid-rUqSgnDGIR P {
   color: #232323;
 }
 .cid-rTGcLvHeVO .navbar {
