@@ -1649,52 +1649,6 @@ section.lazy-placeholder:after {
 .cid-rTHtLup5hd LABEL {
   color: #232323;
 }
-.cid-rUqSKfeWh9 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-rUqSKfeWh9 [class^="socicon-"]:before,
-.cid-rUqSKfeWh9 [class*=" socicon-"]:before {
-  line-height: 44px;
-}
-.cid-rUqSKfeWh9 .btn-social {
-  font-size: 20px;
-  border-radius: 50%;
-  padding: 0;
-  width: 44px;
-  height: 44px;
-  line-height: 44px;
-  text-align: center;
-  position: relative;
-  color: #232323;
-  cursor: pointer;
-  border-color: #036919;
-}
-.cid-rUqSKfeWh9 .btn-social i {
-  top: 0;
-  line-height: 44px;
-  width: 44px;
-}
-.cid-rUqSKfeWh9 .btn-social:hover {
-  color: #fff;
-  background: #036919;
-}
-.cid-rUqSKfeWh9 .btn-social:hover i.socicon {
-  color: #ffffff !important;
-}
-.cid-rUqSKfeWh9 .btn-social + .btn {
-  margin-left: .1rem;
-}
-@media (max-width: 767px) {
-  .cid-rUqSKfeWh9 .btn {
-    font-size: 20px !important;
-  }
-}
-.cid-rUqSKfeWh9 .btn-social,
-.cid-rUqSKfeWh9 .mbr-section-title {
-  color: #232323;
-}
 .cid-rUqSgnDGIR {
   padding-top: 30px;
   padding-bottom: 15px;
