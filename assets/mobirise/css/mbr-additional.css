@@ -1667,43 +1667,43 @@ section.lazy-placeholder:after {
 .cid-rTGcLvHeVO .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-rU9OxSJTWB {
+.cid-rUsgZUwoQl {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 @media (max-width: 767px) {
-  .cid-rU9OxSJTWB .content {
+  .cid-rUsgZUwoQl .content {
     text-align: center;
   }
-  .cid-rU9OxSJTWB .content > div:not(:last-child) {
+  .cid-rUsgZUwoQl .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-rU9OxSJTWB .media-wrap {
+  .cid-rUsgZUwoQl .media-wrap {
     margin-bottom: 1rem;
   }
 }
-.cid-rU9OxSJTWB .media-wrap .mbr-iconfont-logo {
+.cid-rUsgZUwoQl .media-wrap .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-rU9OxSJTWB .media-wrap img {
+.cid-rUsgZUwoQl .media-wrap img {
   height: 6rem;
 }
 @media (max-width: 767px) {
-  .cid-rU9OxSJTWB .footer-lower .copyright {
+  .cid-rUsgZUwoQl .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-rU9OxSJTWB .footer-lower hr {
+.cid-rUsgZUwoQl .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-rU9OxSJTWB .footer-lower .social-list {
+.cid-rUsgZUwoQl .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -1713,33 +1713,34 @@ section.lazy-placeholder:after {
   -webkit-justify-content: flex-end;
   justify-content: flex-end;
 }
-.cid-rU9OxSJTWB .footer-lower .social-list .mbr-iconfont-social {
+.cid-rUsgZUwoQl .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-rU9OxSJTWB .footer-lower .social-list .soc-item {
+.cid-rUsgZUwoQl .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-rU9OxSJTWB .footer-lower .social-list a {
+.cid-rUsgZUwoQl .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-rU9OxSJTWB .footer-lower .social-list a:hover {
+.cid-rUsgZUwoQl .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-rU9OxSJTWB .footer-lower .social-list {
+  .cid-rUsgZUwoQl .footer-lower .social-list {
     -webkit-justify-content: center;
     justify-content: center;
   }
 }
-.cid-rU9OxSJTWB H5 {
+.cid-rUsgZUwoQl H5 {
   color: #232323;
 }
-.cid-rU9OxSJTWB P {
+.cid-rUsgZUwoQl P {
   color: #232323;
+  text-align: left;
 }
 .cid-rTGcLvHeVO .navbar {
   background: #efefef;
