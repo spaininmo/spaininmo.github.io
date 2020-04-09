@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "metodo69",
-    "currentPage": "thetoniperez.html",
+    "currentPage": "metodo69.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -53,7 +53,7 @@
         "file": "@PROJECT_PATH@/fonts/Sansation_Regular/font.ttf"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/cara-toni-sin-fondo-11.png",
+    "favicon": "@PROJECT_PATH@/assets/images/cara-toni-sin-fondo-12.png",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
