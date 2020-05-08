@@ -948,6 +948,11 @@ section.lazy-placeholder:after {
 .cid-rTGcLvHeVO .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-rTGcLvHeVO .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
 .cid-rTGcLvHeVO .collapsed button.navbar-toggler {
   display: block;
 }
@@ -2270,10 +2275,6 @@ section.lazy-placeholder:after {
 .cid-rTGcLvHeVO .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-rTGcLvHeVO .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-rTGcLvHeVO .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-rTGcLvHeVO .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rTGcLvHeVO .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2369,10 +2370,6 @@ section.lazy-placeholder:after {
   .cid-rTGcLvHeVO .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rTGcLvHeVO .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-rTGcLvHeVO .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-rTGcLvHeVO .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-rTGcLvHeVO .navbar-collapse.collapsing .navbar-buttons,
   .cid-rTGcLvHeVO .navbar-collapse.show .navbar-buttons {
@@ -2839,10 +2836,6 @@ section.lazy-placeholder:after {
 .cid-rTGcLvHeVO .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-rTGcLvHeVO .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-rTGcLvHeVO .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-rTGcLvHeVO .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rTGcLvHeVO .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2938,10 +2931,6 @@ section.lazy-placeholder:after {
   .cid-rTGcLvHeVO .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rTGcLvHeVO .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-rTGcLvHeVO .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-rTGcLvHeVO .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-rTGcLvHeVO .navbar-collapse.collapsing .navbar-buttons,
   .cid-rTGcLvHeVO .navbar-collapse.show .navbar-buttons {
